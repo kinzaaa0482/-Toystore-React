@@ -42,7 +42,7 @@ export default function Home() {
         <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
           <Link to="/products" style={{
             background: 'var(--brand-primary-color)',
-            color: '#fff',
+            color: '#ffffffff',
             padding: '14px 32px',
             borderRadius: '8px',
             fontWeight: 700,
